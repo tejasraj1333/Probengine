@@ -1,0 +1,20 @@
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Bayesian inference (Stage 8)
+pymc>=5.10.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.18.0
+
+# Data handling
+pandas>=2.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Code quality
+ruff>=0.1.0
